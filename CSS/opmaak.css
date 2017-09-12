@@ -1,8 +1,11 @@
 
-body {
-  background-color: lightblue;
+h1 {
+ color: White;
+ font-family: 'Saira Semi Condensed', sans-serif;
+ text-align: center;
+ font-size: 150%;
 }
 
-h1 {
- color: yellow;
+body  {
+    background-image: url("steelseries-apex-m750.jpg");
 }
